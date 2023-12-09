@@ -1,0 +1,5 @@
+__pycache__
+.mypy_cache
+dataset/
+dogs-vs-cats.zip
+sampleSubmission.csv
