@@ -11,7 +11,7 @@ import numpy as np
 
 
 def predictImage(image_path):
-    model = load_model("dog_cat.h5")
+    model = load_model("./model/dog_cat.h5")
     image = load_img(image_path, target_size=(192, 192))
     # Đảm bảo rằng kích thước ảnh phù hợp với model
     image_array = img_to_array(image)
