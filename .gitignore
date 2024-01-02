@@ -3,3 +3,5 @@ __pycache__
 dataset/
 dogs-vs-cats.zip
 sampleSubmission.csv
+uploads/
+test.py
